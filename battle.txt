@@ -1,0 +1,16 @@
+1# - VV1 HP: 100.0 DMG: 50.0
+2# - OO4 HP: 40.0 DMG: 20.0 ERG: 10.0
+3# - NN1 HP: 100.0 DMG: 50.0
+4# - KK HP: 100.0 DMG: 50.0
+
+VV1 takes 31.9 damage from KK -- hp left: 68.1
+OO4 takes 46.5 damage from NN1 -- hp left: 0.0
+VV1 takes 43.3 damage from KK -- hp left: 24.7
+VV1 takes 35.8 damage from KK -- hp left: 0.0
+
+1# - VV1 HP: 0.0 DMG: 50.0
+2# - OO4 HP: 0.0 DMG: 20.0 ERG: 10.0
+3# - NN1 HP: 100.0 DMG: 50.0
+4# - KK HP: 100.0 DMG: 50.0
+
+--- 2 WIN ---
